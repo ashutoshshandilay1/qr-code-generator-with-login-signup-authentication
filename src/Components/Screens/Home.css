@@ -1,0 +1,17 @@
+.sups{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0% auto;
+    justify-items: center;
+    margin-top: 3rem;
+    background: transparent;
+    position: relative;
+    margin-left: 35%;
+}
+
+.sups img {
+    display: block;
+    margin-left: 7rem;
+
+}

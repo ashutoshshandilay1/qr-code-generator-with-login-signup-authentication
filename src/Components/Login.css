@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.sup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../assets/img/milan-ihl-htxSFh0Pxas-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+ 
+
+}
+
+.main {
+    .main {
+        max-width: calc(100vw - 20px); /* Set maximum width to 100% of viewport width minus any desired padding */
+        border: 1px solid white;
+        padding: 20px; /* Add padding to the container if necessary */
+        margin: 50px auto 0; /* Set top margin to 50px and center horizontally */
+        box-sizing: border-box; 
+        backdrop-filter: blur(2px);
+      } 
+  }
+  
+
+
+.login{
+    display: flex;
+    margin-top: 4rem;
+    justify-content: center;
+    flex-direction: column;
+    background: transparent;
+    margin: 0% auto;
+    justify-content: center;
+    align-items: center;
+    margin-right: 4rem;
+  
+
+}
+h1{
+display: flex;
+justify-content: center;
+margin-top: 25vh;
+}
+
+
+.login button {
+    margin-top: 4rem;
+    display: block; /* Ensure the button is a block-level element */
+    margin: 4rem auto 0; /* Center horizontally */
+    background: transparent;
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+
+.as, .as1{
+margin-bottom: 1rem;    
+margin-top: 1rem;
+background: transparent;
+backdrop-filter: blur(-10px);
+color: #fff;
+
+}
+.as::placeholder {
+    color: #fff; /* Change this to the color you desire */
+}
+a {
+    text-align: right; /* Align text to the right */
+    margin-left: 13rem; /* Add right margin */
+    color: #fff; /* Set text color to white */
+    text-decoration: none; /* Remove underline */
+    font-size: 1rem; /* Set font size */
+}
+
+p{
+    margin: 0% auto;
+    text-align: center;
+}
